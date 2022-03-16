@@ -2,7 +2,7 @@
     "name": "Tech Jokes",
     "short_name":"Tech Jokes",
     "description":"Web Appplication Tecj Jokes",
-    "start_url":"http://127.0.0.1:5500/index.html",
+    "start_url":"https://thorveblenred.github.io//index.html",
     "theme_color": "#ff4500",
     "background_color":"#ffdab9",
     "display" : "minimal-ui",
